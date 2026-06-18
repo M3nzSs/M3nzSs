@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá eu sou Gabriel Bernardinelli 👋
 
-<!--
-**M3nzSs/M3nzSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como PCP em uma tinturaria 
+- 🌱 Estou cursando um Bacharelado em Engenharia de Software
+- 😄 Pronomes: ele/dele
+- ⚡ Fun fact: Amo música e toco varíos tipos de intrsumento  
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:francagabriel1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-frança-739704417" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ##
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3nzSs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nzSs&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=M3nzSs&theme=tokyonight)
