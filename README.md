@@ -17,4 +17,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3nzSs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nzSs&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=M3nzSs&theme=tokyonight)
-![Snake animation](https://github.com/M3nzSs/M3nzSs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/M3nzSs/M3nzSs/output/github-contribution-grid-snake-dark.svg)
