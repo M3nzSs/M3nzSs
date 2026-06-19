@@ -1,5 +1,9 @@
 <h1 align="center" style="color:#00ffe1;">⚡ Gabriel Bernardinelli ⚡</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M3nzSs/M3nzSs/main/assets/arnold.gif" width="500"/>
+</p>
+
 <p align="center" style="color:#a6a6a6;">
   🔭 PCP em uma tinturaria <br/>
   🌱 Bacharelado em Engenharia de Software <br/>
